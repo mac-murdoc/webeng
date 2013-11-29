@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+table {
+	border: black solid 2px;
+}
+
+th {
+	background-color: #D8D8D8;
+}
+
+.dark {
+	background-color: #E8E8E8;
+}
